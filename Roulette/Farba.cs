@@ -6,28 +6,28 @@ using System.Threading.Tasks;
 
 namespace Roulette
 {
-    enum Farba
+    public enum Farba
     {
         zelena,
         cierna,
         cervena
     }
 
-    enum Parnost
+    public enum Parnost
     {
         ziadna,
         parna,
         neparna
     }
 
-    enum Rada
+    public enum Rada
     {
         ziadna,
         prva,
         druha,
         tretia
     }
-    enum Rozsah
+    public enum Rozsah
     {
         ziadny,
         R1_12,

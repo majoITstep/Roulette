@@ -17,8 +17,7 @@ namespace Roulette
                 HraciePolia[i].Farba = rozmiestnenieFarieb[i];
                 HraciePolia[i].Cislo = 1;
                 HraciePolia[i].Rada = vratRadu(i);
-                HraciePolia[i].Parnost = vratParnost(i);   
-             
+                HraciePolia[i].Parnost = vratParnost(i);           
                         
             }
 
